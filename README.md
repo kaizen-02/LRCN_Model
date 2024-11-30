@@ -1,2 +1,3 @@
 # LRCN_Model
-LRCN is Long-term Recurrent Neural Network for Action Recognition.
+LRCN is Long-term Recurrent Convolutional Neural Network for Action Recognition.
+
